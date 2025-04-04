@@ -12,7 +12,7 @@ L'application ScoreKeeper est une application React simple permettant de suivre 
 ### Installation
 1. Cloner le dépôt :
     ```sh
-   git clone https://github.com/kuraifuyu666/score-keeper.git
+    git clone https://github.com/kuraifuyu666/score-keeper.git
     ```
 
 2. Naviguer vers le répertoire du projet :
@@ -27,39 +27,14 @@ L'application ScoreKeeper est une application React simple permettant de suivre 
 
 ### Lancer l'application
 
-Démarrer le serveur de développement :
-
+1. Démarrer le serveur de développement :
     ```sh
     npm start
     ```
 
-Ouvrir votre navigateur et aller sur :
-
+2. Ouvrir votre navigateur et aller sur :
     ```arduino
     http://localhost:3000
-    ```
-
-### Structure du projet
-
-    ```pgsql
-score-keeper/
-│
-├─ public/
-│  └─ index.html
-│
-├─ src/
-│  ├─ components/
-│  │  ├─ ScoreKeeper.jsx
-│  │  ├─ ScoreView.jsx
-│  │  └─ App.jsx
-│  ├─ styles/
-│  │  ├─ App.css
-│  │  ├─ ScoreKeeper.css
-│  │  └─ ScoreView.css
-│  ├─ index.jsx
-│  └─ index.css
-│
-└─ package.json
     ```
 
 ### Utilisation
